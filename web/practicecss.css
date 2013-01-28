@@ -1,0 +1,37 @@
+/* 
+    Document   : practicecss
+    Created on : Jan 26, 2013, 9:55:38 AM
+    Author     : production
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+h2
+{
+    text-decoration: underline;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 12px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+h3
+{
+    color: #006666;
+    font-family: Tahoma, Geneva, sans-serif;
+    margin-top: 8px;
+    margin-bottom: 2px;
+    font-size: 12pt;
+}
+
+p, form
+{
+    margin-top: 0px;
+    font-family: serif;
+    color: #666666
+}
